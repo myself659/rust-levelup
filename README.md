@@ -1,2 +1,5 @@
-# Introduction
+# 说明
+
+个人rust进阶学习一个记录与分享。
+
 
